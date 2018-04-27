@@ -1,0 +1,24 @@
+{
+  "name": "koa-movie",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick930826/koa-movie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick930826/koa-movie/issues"
+  },
+  "homepage": "https://github.com/Nick930826/koa-movie#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
